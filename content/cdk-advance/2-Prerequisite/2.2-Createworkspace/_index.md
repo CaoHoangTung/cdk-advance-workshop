@@ -1,9 +1,9 @@
 ---
 title : "Create workspace"
 date : "`r Sys.Date()`"
-weight : 1
+weight : 2
 chapter : false
-pre : " <b> 3.1 </b> "
+pre : " <b> 2.2 </b> "
 ---
 
 #### Create workspace
@@ -17,20 +17,20 @@ If not, you can continue with the following steps.
    - Find **Cloud9**
    - Select **Cloud9**
 
-![Amazon CDk](/images/2/0001.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0001.png?featherlight=false&width=90pc)
 
 2. In the **AWS Cloud9** interface
 
    - Select **Create environment**
 
-![Amazon CDk](/images/2/0002.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0002.png?featherlight=false&width=90pc)
 
 3. In the **Create environment** interface
 
    - **Name**, enter `ASG-Cloud9-Workshop`
    - Select **Next step**
 
-![Amazon CDk](/images/2/0003.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0003.png?featherlight=false&width=90pc)
 
 4. In the **Configure settings** section
 
@@ -49,16 +49,16 @@ If not, you can continue with the following steps.
    - **Platform**, select **Amazon Linux 2 (recommended)**
    - Leave the **Network** option as default (default VPC)
 
-![Amazon CDk](/images/2/0004.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0004.png?featherlight=false&width=90pc)
 
 5. Select **Next step**
 
-![Amazon CDk](/images/2/0005.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0005.png?featherlight=false&width=90pc)
 
 6. Select **Create environment**
 
-![Amazon CDk](/images/2/0006.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0006.png?featherlight=false&width=90pc)
 
 7. Environment interface just initialized
 
-![Amazon CDk](/images/2/0007.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0007.png?featherlight=false&width=90pc)

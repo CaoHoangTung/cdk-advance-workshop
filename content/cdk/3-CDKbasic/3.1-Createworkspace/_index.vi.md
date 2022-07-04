@@ -17,20 +17,20 @@ Nếu không, bạn có thể tiếp tục với các bước sau đây.
    - Tìm **Cloud9**
    - Chọn **Cloud9**
 
-![Amazon CDk](/images/2/0001.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0001.png?featherlight=false&width=90pc)
 
 2. Trong giao diện **AWS Cloud9**
 
    - Chọn **Create environment**
 
-![Amazon CDk](/images/2/0002.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0002.png?featherlight=false&width=90pc)
 
 3. Trong giao diện **Create environment**
 
    - **Name**, nhập `ASG-Cloud9-Workshop`
    - Chọn **Next step**
 
-![Amazon CDk](/images/2/0003.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0003.png?featherlight=false&width=90pc)
 
 4. Trong phần **Configure settings**
 
@@ -49,16 +49,16 @@ Nếu không, bạn có thể tiếp tục với các bước sau đây.
    - **Platform**, chọn **Amazon Linux 2 (recommended)**
    - Để tuỳ chọn **Network** theo như mặc định (default VPC)
 
-![Amazon CDk](/images/2/0004.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0004.png?featherlight=false&width=90pc)
 
 5. Chọn **Next step**
 
-![Amazon CDk](/images/2/0005.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0005.png?featherlight=false&width=90pc)
 
 6. Chọn **Create environment**
 
-![Amazon CDk](/images/2/0006.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0006.png?featherlight=false&width=90pc)
 
 7. Giao diện môi trường vừa khởi tạo
 
-![Amazon CDk](/images/2/0007.png?featherlight=false&width=90pc)
+![Amazon CDk](/images/2.2-prerequisite/0007.png?featherlight=false&width=90pc)

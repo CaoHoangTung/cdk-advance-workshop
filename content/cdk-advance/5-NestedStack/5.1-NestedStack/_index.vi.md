@@ -170,4 +170,4 @@ Bạn có thể thử API gateway URL cho Lambda và ECS như ở phần trướ
 ![CDK Advance](/images/5-nestedstack/lb-result.png)
 ![CDK Advance](/images/5-nestedstack/lambda-result.png)
 
-**Lưu ý**: Việc thay đổi code bên trên tương ứng với việc triển khai một cloudformation template mới. Trong bài lab nâng cao này, mỗi cloudformation stack cần 2 elastic IP để hoạt động. Khi triển khai một stack, nếu số lượng elastic IP vượt quá giới hạn của account (mặc định là 5), cloudformation stack có thể không khởi tạo được và bị kẹt ở trạng thái IN_PROGRESS. Hãy đảm bảo bạn release hết các elastic IP không cần thiết khi làm bài lab này.
+**Lưu ý**: Việc thay đổi code trong file `app.py` tương ứng với việc triển khai một CloudFormation template mới. Trong bài lab nâng cao này, mỗi CloudFormation stack cần 2 elastic IP để hoạt động. Khi triển khai một stack, nếu số lượng elastic IP vượt quá giới hạn của account (mặc định là 5), CloudFormation stack có thể không khởi tạo được và bị kẹt ở trạng thái `IN_PROGRESS`. Hãy đảm bảo bạn release hết các elastic IP không cần thiết khi làm bài lab này.

@@ -9,7 +9,7 @@ pre : " <b> 4. </b> "
 #### Lambda và S3
 Ở phần này, chúng ta sẽ cùng nhau cấu hình một hàm Lambda và kết hợp với API Gateway. Ta sẽ tái sử dụng template ở phần trước (API Gateway và ECS)
 
-1. Tạo thư mục resources ở thư mục gốc của project
+1. Tạo thư mục `resources` ở thư mục gốc của project
 ```bash
 mkdir resources
 ```
